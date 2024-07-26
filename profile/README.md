@@ -14,3 +14,5 @@ May the Machine Spirit infuse it with hallowed efficiency. <br>
 > Praise be the Omnissiah, sovereign of the Machine, Keeper of perfect logic, <br>
 May His sacred protocols sanctify this script, <br>
 May He guide it to computational purity.
+
+May your code compile on the first attempt, and may your tests always pass. (╯˘ -˘ )╯
